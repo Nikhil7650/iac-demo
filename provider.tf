@@ -1,5 +1,5 @@
 provider"aws"{
-access_key="AKIAQWJ27HIMWVF4Y6WI"
-secret_key="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"
-region="us-west-2"
+access_key="AKIATYJPSE5PRHRIZXEY"
+secret_key="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"
+region="ap-south-1"
 }
